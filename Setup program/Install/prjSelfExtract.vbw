@@ -1,0 +1,5 @@
+frmInstaller = 44, 44, 388, 325, , 22, 23, 366, 303, C
+modSelfExtract = 0, 0, 344, 281, 
+CodeModule = 44, 44, 392, 364, 
+CGZipFiles = 22, 22, 370, 342, 
+CGUnzipFiles = 154, 154, 502, 474, Z

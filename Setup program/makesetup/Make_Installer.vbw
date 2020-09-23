@@ -1,0 +1,8 @@
+frmMakeInstaller = 44, 44, 379, 364, Z, 22, 22, 370, 342, C
+modMake = 88, 88, 423, 408, 
+CGZipFiles = 0, 0, 0, 0, C
+CGUnzipFiles = 0, 0, 0, 0, C
+CodeModule = 110, 110, 445, 430, 
+cWizardEngine = 0, 0, 335, 320, 
+General1 = 132, 132, 467, 452, 
+INIModule = 132, 132, 467, 452, 
