@@ -1,0 +1,12 @@
+frmInstaller = 44, 44, 392, 364, Z, 22, 22, 370, 342, C
+modSelfExtract = 44, 44, 380, 364, 
+CodeModule = 110, 110, 445, 430, 
+CGZipFiles = 0, 0, 334, 320, 
+CGUnzipFiles = 132, 132, 467, 452, 
+mFiles = 0, 0, 335, 320, 
+XCOPY1 = 132, 132, 467, 452, 
+frmregister = 44, 44, 379, 364, , 22, 22, 357, 342, C
+frmPreinstall = 44, 44, 379, 364, , 22, 22, 357, 342, C
+INImodule = 66, 66, 401, 386, 
+Timepause = 22, 22, 357, 342, 
+modIcons = 0, 0, 0, 0, C
